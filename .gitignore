@@ -1,0 +1,11 @@
+.idea/
+*.iml
+target/
+lib_managed/
+src_managed/
+project/boot/
+.history
+.cache
+.ensime
+.ensime_cache
+envs.sh
